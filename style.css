@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    height: 300px;
+    
+
+}
+th {
+    color: white;
+    text-align: left;
+    background-color: rgb(23 158 96);
+}
+.data {
+    color: black;
+    background-color: rgb(225 225 225);
+}
